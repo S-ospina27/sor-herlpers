@@ -1,0 +1,17 @@
+{
+    "name": "sor/helpers",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SorHelpers\\": "src/SorHelpers/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Santiago Ospina",
+            "email": "santiagoospinarojas27@gmail.com"
+        }
+    ],
+    "require": {}
+}
